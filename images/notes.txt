@@ -1,0 +1,3 @@
+- opencv was to be compiled on an RPI
+- some numpy image operations are surprisingly slow (at least plotting)
+- skimage - don't remember, probably broken 2018

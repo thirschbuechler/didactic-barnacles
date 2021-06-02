@@ -1,0 +1,2 @@
+print("oi, mate!")
+input()

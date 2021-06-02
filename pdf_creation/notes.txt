@@ -1,0 +1,5 @@
+- diy pdf_helper is a mess
+- pdfkit and wkhtmltopdf as well (getting html from pweave)
+- pdfrw seems an option - https://stackoverflow.com/questions/31712386/loading-matplotlib-object-into-reportlab
+- printing the html from pweave
+- printing from jupyter console
